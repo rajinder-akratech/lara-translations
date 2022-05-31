@@ -41,7 +41,7 @@ Below are a full list of features:
 
 Install the package via Composer
 
-`composer require joedixon/laravel-translation`
+`composer require joedixon-updated/laravel-translation`
 
 Publish configuration and assets
 
